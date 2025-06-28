@@ -1,2 +1,2 @@
-# myFinance
-This is a repo for my financial system automation
+# homeSearchingScraper
+This is a repo to create a scraper for home search. 
